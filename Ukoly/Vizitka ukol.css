@@ -1,0 +1,107 @@
+.menu li {
+    display: inline-block;
+}
+
+.menu {
+    background-color: #FDCF76;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.menu a {
+    color: white;
+    text-decoration: none;
+    padding: 20px 30px;
+    display: inline-block
+}
+
+.menu a:hover {
+    background-color: #537967;
+}
+
+h1 {
+    font-size: 60px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 26px;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    line-height: 1.5;
+    font-weight: bold;
+    color: #7221816;
+    padding: 50px 5px;
+    margin: 0;
+}
+
+header {
+    background-color: #FDCF76;
+}
+
+body {
+    font-size: 16px;
+    font-family: 'Titillium Web', sans-serif;
+    line-height: 1.5;
+    background-color:
+    max-width: 50em;
+    margin: 0;
+    padding: 30px;
+}
+
+section {
+    background-color: #81b69d;
+    padding-top: 50x;
+    padding-bottom: 50px;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: justify;
+    align-content: center;
+    overflow: auto;
+}
+
+.vnutro img {
+    width: 50%;
+    display: block;
+    border: 2px solid #81b69d;
+    border-radius: 10px;
+    float: left;
+    margin: 0 30px 30px 0;
+}
+footer {
+    display: block;
+    text-align: center;
+    line-height: 1.5;
+    font-weight:normal;
+    background-color: #FDCF76;
+    padding:5px 50px;
+    margin: 0;
+}
+
+.paticka p {
+    margin-bottom: 70px;
+}
+
+.vnutro a {
+    text-decoration: none;
+    color: #FDCF76;
+}
+.vnutro a:hover{
+    text-decoration: underline;
+
+}
+.paticka a {
+    text-decoration: none;
+    color: #81b69d;
+    background-color: none;
+}
+
+.paticka a:hover {
+    text-decoration: underline;
+}
